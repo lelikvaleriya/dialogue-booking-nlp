@@ -14,3 +14,6 @@ Booking Dialogue Generator
 ├── report.pdf                            # Final project report  
 ├── README.md                             # This file  
 ```
+### Colab notebook
+
+[Open file with model training in Colab](https://colab.research.google.com/drive/11HJLTroEz1EGRg6yGFyWi3AMrjrXLsHL#scrollTo=5CDFxgXyKiOu)
