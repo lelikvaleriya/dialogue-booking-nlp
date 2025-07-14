@@ -10,7 +10,6 @@ A generative dialogue model for booking flights and hotels, fine-tuned on a filt
 📦 Booking Dialogue Generator
 ├── LLM for booking train.ipynb           # Fine-tuning the model  
 ├── LLM for booking evaluation.ipynb      # Evaluation notebook with BLEU & ROUGE  
-├── model_LLM_booking.zip                 # Zipped folder with fine-tuned model  
 ├── generated_examples_for_manual_check.csv  # Hand-picked examples for manual evaluation  
 ├── report.pdf                            # Final project report  
 └── README.md                             # This file  
